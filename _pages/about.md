@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Szymon Tworkowski"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Bio
+Szymon Tworkowski
 ======
 Machine Learning Master's student at the University of Warsaw, advised by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Piotr Miłoś](https://scholar.google.com/citations?user=Se68XecAAAAJ&hl=en)
 
