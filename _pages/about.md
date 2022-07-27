@@ -6,10 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /teaching/
-  - /teaching.html
-  - /categories/
-  - /categories.html
 ---
 
 
