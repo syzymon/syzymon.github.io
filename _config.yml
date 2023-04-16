@@ -85,7 +85,8 @@ author:
   bio              : "Machine Learning Master's student at the University of Warsaw, interested in language models."
   location         : "Warsaw, Poland"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1V8AeXYAAAAJ"
+#  googlescholar    : "https://scholar.google.com/citations?user=1V8AeXYAAAAJ"
+  semanticscholar  : "https://www.semanticscholar.org/author/Szymon-Tworkowski/2134879789"
   email            : "szy.tworkowski@gmail.com"
 #  researchgate     : "https://www.researchgate.net/scientific-contributions/Szymon-Tworkowski-2205373732"
   uri              : "https://scholar.google.com/citations?user=1V8AeXYAAAAJ"
