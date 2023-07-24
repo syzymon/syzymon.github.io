@@ -52,4 +52,6 @@ Jierui Li, **Szymon Tworkowski**, Yingying Wu, Raymond Mooney
 
 Invited talks
 ------
+[ACL 2023 - Explaining Competitive-Level Programming Solutions using LLMs - interview with Letitia from AI Coffee Break](https://youtu.be/-Agcr0nawuk?t=87)
+
 [AITP 2022 - Formal Premise Selection With Language Models (recording on YT)](https://www.youtube.com/watch?v=gem5xO3FhQc)
