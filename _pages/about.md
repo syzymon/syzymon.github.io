@@ -9,12 +9,21 @@ redirect_from:
 ---
 
 
-Machine Learning Master's student at the University of Warsaw, advised by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Piotr Miłoś](https://scholar.google.com/citations?user=Se68XecAAAAJ&hl=en)
+Machine Learning graduate student at the University of Warsaw advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se67XecAAAAJ&hl=en). 
+I'm interested in many aspects of LLMs, including: long-context, efficiency, code generation,better reasoning capabilities. Previously Student Researcher at Google Research, mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
 
-Large language model enthusiast interested in advancing LLM efficiency and reasoning capabilities. My recent work has been dedicated to training language models to prove mathematical theorems and equipping them with the ability to leverage vast knowledge bases through retrieval. I am thrilled by the current progress in the field and seek new challenges to further explore the potential of LLMs.
+My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLLaMA](https://github.com/CStanKonrad/long_llama)), develops a method for extending context length of existing LLMs like LLaMA. I also published papers on using language models for automated theorem proving (formal mathematics). I'm broadly interested in improving the capabilities of LLMs, be it long-context or better reasoning (math/coding).
+
+I'm now on the industrial job market. This is my [CV](https://students.mimuw.edu.pl/~st406386/cv_st_23072.pdf). Please don't hesitate to drop me a message about any career opportunities! I'm particularly willing to relocate to the US/UK/Switzerland.
+
 
 Publication
 ------
+[**Focused Transformer: Contrastive Training for Context Scaling**](https://arxiv.org/abs/2307.03170)
+**Szymon Tworkowski**, Konrad Staniszewski, Mikołaj Pacek, Yuhuai Wu, Henryk Michalewski, Piotr Miłoś
+
+[arXiv'23](https://arxiv.org/abs/2307.03170)
+
 [**Thor: Wielding Hammers to Integrate Language Models and Automated Theorem Provers**](https://arxiv.org/abs/2205.10893)
 Albert Q. Jiang, Wenda Li, **Szymon Tworkowski**, Konrad Czechowski, Tomasz Odrzygóźdź, Piotr Miłoś, Yuhuai Wu, Mateja Jamnik
 
@@ -34,3 +43,12 @@ Piotr Nawrot*, **Szymon Tworkowski***, Michał Tyrolski, Łukasz Kaiser, Yuhuai 
 Maciej Mikuła*, Szymon Antoniak*, **Szymon Tworkowski***, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu
 
 [arXiv'23](https://arxiv.org/abs/2303.04488)
+
+[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2307.05337)
+Jierui Li, **Szymon Tworkowski**, Yingying Wu, Raymond Mooney
+
+[ACL2023 NLRSE workshop](https://arxiv.org/abs/2307.05337)
+
+Invited talks
+------
+[AITP 2022 - Formal Premise Selection With Language Models (recording on YT)](https://www.youtube.com/watch?v=gem5xO3FhQc)
