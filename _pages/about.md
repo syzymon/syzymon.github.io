@@ -11,6 +11,7 @@ redirect_from:
 
 Machine Learning graduate student at the University of Warsaw advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se67XecAAAAJ&hl=en). 
 I'm interested in many aspects of LLMs, including: long-context, efficiency, code generation, better reasoning capabilities. Previously Student Researcher at Google Research, mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
+I am also grateful to [Henryk Michalewski](https://www.mimuw.edu.pl/~henrykm/resume.html) and [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en) for supervising my [bachelor thesis](https://aclanthology.org/2022.findings-naacl.117.pdf).
 
 My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLLaMA](https://github.com/CStanKonrad/long_llama)), develops a method for extending context length of existing LLMs like LLaMA. I also published papers on using language models for automated theorem proving (formal mathematics). I'm broadly interested in improving the capabilities of LLMs, be it long-context or better reasoning (math/coding).
 
