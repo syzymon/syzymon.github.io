@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Machine Learning graduate student at the University of Warsaw advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se67XecAAAAJ&hl=en). 
-I'm interested in many aspects of LLMs, including: long-context, efficiency, code generation, better reasoning capabilities. Previously Student Researcher at Google Research, mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
+PhD student at the University of Warsaw advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se68XecAAAAJ&hl=en).
+I'm interested in many aspects of LLMs, including: long context, math reasoning, code generation, LLM efficiency. Previously Student Researcher at Google Research, mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
 I am also grateful to [Henryk Michalewski](https://www.mimuw.edu.pl/~henrykm/resume.html) and [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en) for supervising my [bachelor thesis](https://aclanthology.org/2022.findings-naacl.117.pdf).
 
-My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLLaMA](https://github.com/CStanKonrad/long_llama)), develops a method for extending context length of existing LLMs like LLaMA. I also published papers on using language models for automated theorem proving (formal mathematics). I'm broadly interested in improving the capabilities of LLMs, be it long-context or better reasoning (math/coding).
+My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLLaMA](https://github.com/CStanKonrad/long_llama)), develops a method for extending context length of existing LLMs like LLaMA, in an efficient way. I also published [papers](https://arxiv.org/abs/2205.10893) on using language models for automated theorem proving (formal mathematics). I'm broadly interested in improving the capabilities of LLMs, be it long-context or better reasoning (math/coding).
 
-I'm now on the industrial job market. This is my [CV](https://students.mimuw.edu.pl/~st406386/cv_st_23072.pdf). Please don't hesitate to drop me a message about any career opportunities! I'm particularly willing to relocate to the US/UK/Switzerland.
+[//]: # (I'm now on the industrial job market. This is my [CV]&#40;https://students.mimuw.edu.pl/~st406386/cv_st_23072.pdf&#41;. Please don't hesitate to drop me a message about any career opportunities! I'm particularly willing to relocate to the US/UK/Switzerland.)
 
 
 Publication
