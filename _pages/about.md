@@ -10,7 +10,7 @@ redirect_from:
 
 
 PhD student at the University of Warsaw advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se68XecAAAAJ&hl=en).
-I'm interested in many aspects of LLMs, including: long context, math reasoning, code generation, LLM efficiency. Previously Student Researcher at Google Research, mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
+I'm interested in many aspects of LLMs, including: long context, math reasoning, code generation, LLM efficiency. Previously Student Researcher at Google, mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
 I am also grateful to [Henryk Michalewski](https://www.mimuw.edu.pl/~henrykm/resume.html) and [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en) for supervising my [bachelor thesis](https://aclanthology.org/2022.findings-naacl.117.pdf).
 
 My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLLaMA](https://github.com/CStanKonrad/long_llama)), develops a method for extending context length of existing LLMs like LLaMA, in an efficient way. I also published [papers](https://arxiv.org/abs/2205.10893) on using language models for automated theorem proving (formal mathematics).
