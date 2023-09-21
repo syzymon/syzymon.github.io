@@ -15,7 +15,7 @@ I am also grateful to [Henryk Michalewski](https://www.mimuw.edu.pl/~henrykm/res
 
 My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLLaMA](https://github.com/CStanKonrad/long_llama)), develops a method for extending context length of existing LLMs like LLaMA, in an efficient way. I also published [papers](https://arxiv.org/abs/2205.10893) on using language models for automated theorem proving (formal mathematics).
 
-My dream goal is to build large language models that are more and more autonomous, so that they could assist humans in solving difficult research-level problems, and ultimately even generate new scientific knowledge on its own.
+My dream goal is to build more and more autonomous large language models, capable of assisting humans in solving difficult research-level problems, and ultimately even generating new scientific knowledge automatically.
 
 [//]: # (I'm now on the industrial job market. This is my [CV]&#40;https://students.mimuw.edu.pl/~st406386/cv_st_23072.pdf&#41;. Please don't hesitate to drop me a message about any career opportunities! I'm particularly willing to relocate to the US/UK/Switzerland.)
 
