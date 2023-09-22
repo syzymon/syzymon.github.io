@@ -25,7 +25,7 @@ Publication
 [**Focused Transformer: Contrastive Training for Context Scaling**](https://arxiv.org/abs/2307.03170)
 **Szymon Tworkowski**, Konrad Staniszewski, Mikołaj Pacek, Yuhuai Wu, Henryk Michalewski, Piotr Miłoś
 
-[arXiv'23](https://arxiv.org/abs/2307.03170)
+[NeurIPS 2023](https://arxiv.org/abs/2307.03170)
 
 [**Thor: Wielding Hammers to Integrate Language Models and Automated Theorem Provers**](https://arxiv.org/abs/2205.10893)
 Albert Q. Jiang, Wenda Li, **Szymon Tworkowski**, Konrad Czechowski, Tomasz Odrzygóźdź, Piotr Miłoś, Yuhuai Wu, Mateja Jamnik
