@@ -57,10 +57,10 @@ Jierui Li, **Szymon Tworkowski**, Yingying Wu, Raymond Mooney
 Invited talks
 ------
 * **Google DeepMind, Zürich** - How to Make LLMs Utilize Long Context Efficiently? 
-*Oct 9 2023*
+*Oct 9, 2023*
 
 * **University of Edinburgh**, Edinburgh NLP Meeting - How to Make LLMs Utilize Long Context Efficiently?
-*Oct 2 2023*
+*Oct 2, 2023*
 
 * [ACL 2023 - Explaining Competitive-Level Programming Solutions using LLMs - interview with Letitia from AI Coffee Break](https://youtu.be/-Agcr0nawuk?t=87)
 
