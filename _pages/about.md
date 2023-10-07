@@ -17,6 +17,8 @@ My recent work, [Focused Transformer](https://arxiv.org/abs/2307.03170) ([LongLL
 
 My dream goal is to build more and more autonomous large language models, capable of assisting humans in solving difficult research-level problems, and ultimately even generating new scientific knowledge automatically.
 
+I am very excited about learning foreign languages, most recently Mandarin - 叫我世梦就行。  
+
 [//]: # (I'm now on the industrial job market. This is my [CV]&#40;https://students.mimuw.edu.pl/~st406386/cv_st_23072.pdf&#41;. Please don't hesitate to drop me a message about any career opportunities! I'm particularly willing to relocate to the US/UK/Switzerland.)
 
 
