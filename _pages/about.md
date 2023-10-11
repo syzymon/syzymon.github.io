@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-PhD student at the University of Warsaw advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se68XecAAAAJ&hl=en).
+PhD student at the [Institute of Mathematics, Polish Academy of Sciences](https://www.impan.pl/en) advised by [Piotr Miłoś](https://scholar.google.com/citations?user=Se68XecAAAAJ&hl=en).
 I'm interested in many aspects of LLMs, including: long context, math reasoning, code generation, LLM efficiency. Previously Student Researcher at Google, very fortunate to be mentored by [Yuhuai Wu](http://www.cs.toronto.edu/~ywu) and [Christian Szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en).
 I am also grateful to [Henryk Michalewski](https://www.mimuw.edu.pl/~henrykm/resume.html) and [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en) for supervising my [bachelor thesis](https://aclanthology.org/2022.findings-naacl.117.pdf).
 
