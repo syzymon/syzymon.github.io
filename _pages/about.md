@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Early employee (#15) at [xAI](https://x.ai), working across the full stack — reasoning RL, midtraining, pretraining and scaling. I'm excited about pushing the frontier of capable AI systems and recursive self-improvement.
+Founding member (#15) at [xAI](https://x.ai) reasoning RL, midtraining, pretraining and scaling. I'm excited about pushing the frontier of capable AI systems and recursive self-improvement.
 
 xAI
 ------
@@ -17,9 +17,9 @@ xAI
 
 **[Grok 4 Fast](https://x.ai/news/grok-4-fast)** — Lead of Grok 4 Fast and the Reasoning Efficiency team. Delivered models 10x more efficient than Grok 4 at matching capability. Responsible for midtraining, RL scaling, posttraining, long context serving, and release coordination — resulting in the most used xAI API model by far.
 
-**Grok 4** — Foundational contributor to Grok 3 Reasoning and Grok 4. RL training stability improvements that helped enable 100x reasoning RL scaling.
+**[Grok 4](https://x.ai/news/grok-4)** — Foundational contributor to Grok 3 Reasoning and Grok 4. RL training stability improvements that helped enable 100x reasoning RL scaling.
 
-**Grok 3 Mini Reasoning** — Sole contributor of the Grok 3 mini-high reasoning model, reaching performance competitive with o3-mini-high.
+**[Grok 3 Mini Reasoning](https://x.ai/news/grok-3)** — Sole contributor of the Grok 3 mini-high reasoning model, reaching performance competitive with o3-mini-high.
 
 **Grok 3 Pretraining** — Foundational contributor to Grok 3 pretraining, the most capable base model at the end of 2024.
 
