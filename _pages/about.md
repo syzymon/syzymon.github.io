@@ -13,7 +13,7 @@ Founding member (#15) at [xAI](https://x.ai) reasoning RL, midtraining, pretrain
 xAI
 ------
 
-**Grok 4.2** — Lead the team responsible for reasoning RL training algorithm and scaling.
+**Grok 4.20** — Lead the team responsible for reasoning RL training algorithm and scaling.
 
 **[Grok 4 Fast](https://x.ai/news/grok-4-fast)** — Lead of Grok 4 Fast and the Reasoning Efficiency team. Delivered models 10x more efficient than Grok 4 at matching capability. Responsible for midtraining, RL scaling, posttraining, long context serving, and release coordination — resulting in the most used xAI API model by far.
 
