@@ -84,7 +84,7 @@ Jierui Li, **Szymon Tworkowski**, Yingying Wu, Raymond Mooney
 Education
 ------
 
-| PhD, Institute of Mathematics, Polish Academy of Sciences | 2023 — ??? |
+| PhD, Institute of Mathematics, Polish Academy of Sciences | 2023 — dropped out |
 | MS, Machine Learning, University of Warsaw | 2021 — 2023 |
 | BSc, Computer Science, University of Warsaw | 2018 — 2021 |
 
